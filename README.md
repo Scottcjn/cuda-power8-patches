@@ -141,3 +141,12 @@ Found this useful? Tested on different hardware? Open an issue or PR!
 ## Disclaimer
 
 This is an unofficial community project. NVIDIA does not support POWER8 for V100 GPUs. If something breaks, you get to keep both pieces.
+
+
+## 中文简介
+
+Cuda Power8 Patches - Elyan Labs 项目
+
+为中文用户提供中文文档支持。
+
+Contributed by eelaine-wzw
