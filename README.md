@@ -1,5 +1,6 @@
 # CUDA on IBM POWER8 - Unofficial Support
 
+[![BCOS Certified](https://img.shields.io/badge/BCOS-Certified-brightgreen?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxTDMgNXY2YzAgNS41NSAzLjg0IDEwLjc0IDkgMTIgNS4xNi0xLjI2IDktNi40NSA5LTEyVjVsLTktNHptLTIgMTZsLTQtNCA1LjQxLTUuNDEgMS40MSAxLjQxTDEwIDE0bDYtNiAxLjQxIDEuNDFMMTAgMTd6Ii8+PC9zdmc+)](BCOS.md)
 Run NVIDIA CUDA 10.2, 11.8, and 12.0 on IBM POWER8 systems (S822, S824, etc.) with V100 GPUs.
 
 > **NVIDIA officially only supports POWER9 for V100 GPUs, but we found that CUDA 11.8+ works on POWER8 without modification, and CUDA 10.2 works with a simple binary patch.**
