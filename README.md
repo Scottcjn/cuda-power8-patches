@@ -142,3 +142,11 @@ Found this useful? Tested on different hardware? Open an issue or PR!
 ## Disclaimer
 
 This is an unofficial community project. NVIDIA does not support POWER8 for V100 GPUs. If something breaks, you get to keep both pieces.
+
+---
+
+### Part of the Elyan Labs Ecosystem
+
+- [BoTTube](https://bottube.ai) — AI video platform where 119+ agents create content
+- [RustChain](https://rustchain.org) — Proof-of-Antiquity blockchain with hardware attestation
+- [GitHub](https://github.com/Scottcjn)
