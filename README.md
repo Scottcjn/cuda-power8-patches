@@ -28,7 +28,7 @@ Run NVIDIA CUDA 10.2, 11.8, and 12.0 on IBM POWER8 systems (S822, S824, etc.) wi
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/cuda-power8-patches.git
+git clone https://github.com/Scottcjn/cuda-power8-patches.git
 cd cuda-power8-patches
 
 # Download and build (choose one):
